@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-astronomy/commit/680dfeeea5775c78e7794b22e59bc2bed4792188",
       "git:hexsha": "680dfeeea5775c78e7794b22e59bc2bed4792188",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-astronomy/commit/930fd8435f772193033769f91497f06fbb4303c2",
